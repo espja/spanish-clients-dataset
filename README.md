@@ -1,6 +1,6 @@
 Under construction...
 
-# spanish-clients-dataset
+# spanish-clients-synthetic-dataset
 
 The Spanish Clients Dataset is a public dataset built with Spanish demographical data. It also includes some variations including duplicates and siblings.
 
