@@ -1,9 +1,6 @@
+# Synthetic dataset containing Spanish people data
 
-Under construction...
-
-# spanish-clients-synthetic-dataset
-
-The Spanish Clients Dataset is a synthetic dataset built with Spanish demographical data. It also includes some variations including duplicates and siblings.
+The Spanish Clients Synthetic Dataset is a dataset built with Spanish demographical data. It also includes a variation including duplicates and errors.
 
 All datasets are **utf-8** encoded and **comma** separated.
 
